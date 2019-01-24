@@ -14,3 +14,5 @@ Rules:
 - You can use READMEs to explain a folder's purpose/structure/approach you have taken to solve this
 
 It should take a couple of hours. Happy coding and please avoid shaving the yak bald :)
+
+![yak](https://pbs.twimg.com/media/BfFR2n4CcAICLbp.jpg "Resist!")
